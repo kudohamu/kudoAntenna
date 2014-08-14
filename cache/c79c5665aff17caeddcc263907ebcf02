@@ -1,0 +1,3126 @@
+O:9:"MagpieRSS":22:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:15:{i:0;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2566.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2566.html";s:5:"title";s:40:"今のFF11ってどうなってんの？";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2316:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/11(水) 16:01:13.02 ID:58GvStYO<br>
+<b><font size="5"><font color="#0066cc">想像がつかない <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/11(水) 16:31:18.83 ID:rX/KKaeD<br>
+<b><font size="4">旧14発売 <br> 
+アビセアで11祭り <br> 
+旧14失敗 <br> 
+アドゥリンで11祭り <br> 
+新14発売 <br> 
+メナスで11祭り <br> 
+新14出だし好調 <br> 
+11徐々に下降 <br> 
+ <br> 
+問題なし <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/11(水) 16:39:35.10 ID:EVjYnoNZ<br>
+<b><font size="4">3万円のキーボードを使い10年前のPS2で遊ぶのがトレンド <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:4:"FF11";s:4:"date";s:25:"2013-09-27T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2316:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/11(水) 16:01:13.02 ID:58GvStYO<br>
+<b><font size="5"><font color="#0066cc">想像がつかない <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/11(水) 16:31:18.83 ID:rX/KKaeD<br>
+<b><font size="4">旧14発売 <br> 
+アビセアで11祭り <br> 
+旧14失敗 <br> 
+アドゥリンで11祭り <br> 
+新14発売 <br> 
+メナスで11祭り <br> 
+新14出だし好調 <br> 
+11徐々に下降 <br> 
+ <br> 
+問題なし <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/11(水) 16:39:35.10 ID:EVjYnoNZ<br>
+<b><font size="4">3万円のキーボードを使い10年前のPS2で遊ぶのがトレンド <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:1;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2565.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2565.html";s:5:"title";s:55:"FF14でキリトとアスナって名前付けてる人";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2480:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/24(火) 15:43:31.03 ID:GEQzvX0P<br>
+<b><font size="4"><font color="#0066cc">FF14にキリト君は２０００人、アスナちゃんは２７００人もいます！ <br> 
+<a href="http://ch.nicovideo.jp/92aki/blomaga/ar350116" target="_blank">http://ch.nicovideo.jp/92aki/blomaga/ar350116</a> <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/24(火) 15:45:11.42 ID:QhH/saWL<br>
+<b><font size="4">婚活パーティーかよ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/24(火) 15:47:19.39 ID:DTt6FTzV<br>
+<b><font size="4"><font color="#000000">
+アスナちゃんのネカマ率を予想しよう <br> 
+僕は95％だと思います <br> 
+ <br> 
+キリトくんはガチ中二病っぽいから次期野村が発掘されるかもしれない！ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:15:"ネトゲ実況";s:4:"date";s:25:"2013-09-26T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2480:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/24(火) 15:43:31.03 ID:GEQzvX0P<br>
+<b><font size="4"><font color="#0066cc">FF14にキリト君は２０００人、アスナちゃんは２７００人もいます！ <br> 
+<a href="http://ch.nicovideo.jp/92aki/blomaga/ar350116" target="_blank">http://ch.nicovideo.jp/92aki/blomaga/ar350116</a> <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/24(火) 15:45:11.42 ID:QhH/saWL<br>
+<b><font size="4">婚活パーティーかよ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/24(火) 15:47:19.39 ID:DTt6FTzV<br>
+<b><font size="4"><font color="#000000">
+アスナちゃんのネカマ率を予想しよう <br> 
+僕は95％だと思います <br> 
+ <br> 
+キリトくんはガチ中二病っぽいから次期野村が発掘されるかもしれない！ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:2;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2564.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2564.html";s:5:"title";s:51:"なんでリセット押しながら電源切ると";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2142:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/23(月) 19:51:37.55 ID:PLL81Y04<br>
+<b><font size="5"><font color="#0066cc">データ消えないの？説明できるやついる？ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/23(月) 19:53:53.72 ID:+XphqcnU<br>
+<b><font size="4">切腹の時も介錯するだろ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/23(月) 19:54:28.44 ID:qffWxyJA<br>
+<b><font size="4">ドラクエ３と、FF4のセーブデータ消えすぎ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:15:"ネトゲ実況";s:4:"date";s:25:"2013-09-25T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2142:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/23(月) 19:51:37.55 ID:PLL81Y04<br>
+<b><font size="5"><font color="#0066cc">データ消えないの？説明できるやついる？ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/23(月) 19:53:53.72 ID:+XphqcnU<br>
+<b><font size="4">切腹の時も介錯するだろ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/23(月) 19:54:28.44 ID:qffWxyJA<br>
+<b><font size="4">ドラクエ３と、FF4のセーブデータ消えすぎ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:3;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2563.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2563.html";s:5:"title";s:61:"GTA5凄すぎｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2201:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/16(月) 14:25:24.84 ID:RxboDTjH<br>
+<b><font size="4"><font color="#0066cc">新生14とは一体何だったのか <br> 
+<br><script src="http://ext.nicovideo.jp/thumb_watch/sm21828868?w=400&amp;h=300" type="text/javascript" charset="utf-8"></script>
+<br> <br> 
+<script src="http://ext.nicovideo.jp/thumb_watch/sm21835147?w=400&amp;h=300" type="text/javascript" charset="utf-8"></script>
+ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+8：<font color="#008000">既にその名前は使われています</font>：2013/09/16(月) 14:48:11.12 ID:+4jXY3QZ<br>
+<b><font size="4">GTOなら知ってる <br> 
+言いたいことも言えないこんな世の中じゃ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br> 
+";}s:2:"dc";a:4:{s:7:"subject";s:15:"ネトゲ実況";s:4:"date";s:25:"2013-09-24T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2201:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/16(月) 14:25:24.84 ID:RxboDTjH<br>
+<b><font size="4"><font color="#0066cc">新生14とは一体何だったのか <br> 
+<br><script src="http://ext.nicovideo.jp/thumb_watch/sm21828868?w=400&amp;h=300" type="text/javascript" charset="utf-8"></script>
+<br> <br> 
+<script src="http://ext.nicovideo.jp/thumb_watch/sm21835147?w=400&amp;h=300" type="text/javascript" charset="utf-8"></script>
+ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+8：<font color="#008000">既にその名前は使われています</font>：2013/09/16(月) 14:48:11.12 ID:+4jXY3QZ<br>
+<b><font size="4">GTOなら知ってる <br> 
+言いたいことも言えないこんな世の中じゃ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br> 
+";}i:4;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2562.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2562.html";s:5:"title";s:66:"ミンフィリア＜聞こえる？ミンフィリアよ・・・";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2280:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/06(金) 03:47:21.23 ID:zKG8Vgsh<br>
+<b><font size="4"><font color="#8C6239">一度砂の家に戻ってきてくれるかしら <br> 
+ <br> 
+ <br> 
+ <br> 
+そのLSで言えよｗｗｗｗｗ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/06(金) 04:22:00.19 ID:GhVJlGVR<br>
+<b><font size="4">ヤマトの皆さん・・・私はイスカンダルのスターシア・・・ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+6：<font color="#008000">既にその名前は使われています</font>：2013/09/06(金) 04:55:04.59 ID:UWaXtWpu<br>
+<b><font size="4">お使いは頼むからチョコボ乗れるようになってからにしてくれ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:4:"FF14";s:4:"date";s:25:"2013-09-23T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2280:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/06(金) 03:47:21.23 ID:zKG8Vgsh<br>
+<b><font size="4"><font color="#8C6239">一度砂の家に戻ってきてくれるかしら <br> 
+ <br> 
+ <br> 
+ <br> 
+そのLSで言えよｗｗｗｗｗ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/06(金) 04:22:00.19 ID:GhVJlGVR<br>
+<b><font size="4">ヤマトの皆さん・・・私はイスカンダルのスターシア・・・ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+6：<font color="#008000">既にその名前は使われています</font>：2013/09/06(金) 04:55:04.59 ID:UWaXtWpu<br>
+<b><font size="4">お使いは頼むからチョコボ乗れるようになってからにしてくれ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:5;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2561.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2561.html";s:5:"title";s:72:"で、でたーパシフィック・リムを見逃したネ実民！！";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:3635:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/19(木) 13:04:04.30 ID:Naiglr5e<br>
+<b><font size="4"><font color="#0066cc">殆どの映画館で今日までやで <br> 
+どうせお前ら見逃して後悔するんだろうから見とけ <br> 
+ <br> 
+<a href="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130922150251_1_1.jpg" target="_blank"><img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130922150251_1_1.jpg"width=716 height=500></a> <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/19(木) 15:10:17.45 ID:gHtuu2q4<br>
+<b><font size="4"><font color="#000000">
+んな後悔するような内容だったっけ <br> 
+マコは微妙だったし <br> 
+パイロット同士のC級レベルの殺陣の格闘模擬戦みたいなのあったし <br> 
+アメリカ人の気質なのかエイリアン気味のグロい描写を入れないと気がすまないみたいだし <br> 
+メイン以外の他のイェーガーのパイロットとか登場した意味あるのかってくらい空気だし <br> 
+ラストはけっこう良かった気がする <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/19(木) 15:19:53.00 ID:Naiglr5e<br>
+<b><font size="4"><font color="#000000">
+<span onMouseover="opentext('んな後悔するような内容だったっけ &lt;br&gt; マコは微妙だったし &lt;br&gt; パイロット同士のC級レベルの殺陣の格闘模擬戦みたいなのあったし &lt;br&gt; アメリカ人の気質なのかエイリアン気味のグロい描写を入れないと気がすまないみたいだし &lt;br&gt; メイン以外の他のイェーガーのパイロットとか登場した意味あるのかってくらい空気だし &lt;br&gt; ラストはけっこう良かった気がする ')" onMouseout="opentext('')"><font color="#0000FF">&gt;&gt;3</font></span> <br> 
+地上波で実況する頃になったら初見でこれは劇場で見たかったって奴は必ず出ると思う <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:15:"ネトゲ実況";s:4:"date";s:25:"2013-09-22T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:3635:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/19(木) 13:04:04.30 ID:Naiglr5e<br>
+<b><font size="4"><font color="#0066cc">殆どの映画館で今日までやで <br> 
+どうせお前ら見逃して後悔するんだろうから見とけ <br> 
+ <br> 
+<a href="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130922150251_1_1.jpg" target="_blank"><img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130922150251_1_1.jpg"width=716 height=500></a> <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/19(木) 15:10:17.45 ID:gHtuu2q4<br>
+<b><font size="4"><font color="#000000">
+んな後悔するような内容だったっけ <br> 
+マコは微妙だったし <br> 
+パイロット同士のC級レベルの殺陣の格闘模擬戦みたいなのあったし <br> 
+アメリカ人の気質なのかエイリアン気味のグロい描写を入れないと気がすまないみたいだし <br> 
+メイン以外の他のイェーガーのパイロットとか登場した意味あるのかってくらい空気だし <br> 
+ラストはけっこう良かった気がする <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/19(木) 15:19:53.00 ID:Naiglr5e<br>
+<b><font size="4"><font color="#000000">
+<span onMouseover="opentext('んな後悔するような内容だったっけ &lt;br&gt; マコは微妙だったし &lt;br&gt; パイロット同士のC級レベルの殺陣の格闘模擬戦みたいなのあったし &lt;br&gt; アメリカ人の気質なのかエイリアン気味のグロい描写を入れないと気がすまないみたいだし &lt;br&gt; メイン以外の他のイェーガーのパイロットとか登場した意味あるのかってくらい空気だし &lt;br&gt; ラストはけっこう良かった気がする ')" onMouseout="opentext('')"><font color="#0000FF">&gt;&gt;3</font></span> <br> 
+地上波で実況する頃になったら初見でこれは劇場で見たかったって奴は必ず出ると思う <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:6;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2560.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2560.html";s:5:"title";s:33:"コロセウム装備えろすぎ";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2196:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/14(土) 22:54:57.78 ID:HXeCvn+5<br>
+<b><font size="4"><font color="#0066cc">女キャラは全員あれ着て歩け <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/14(土) 22:56:32.03 ID:YYsbm2DF<br>
+<b><font size="4">画像も無しにスレ立てとな？ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/14(土) 22:58:53.23 ID:Ay5pjjIp<br>
+<b><font size="4">シコッテモンクがそれ着て上段蹴りとかで大股開いてた <br> 
+何してんの？誘ってんの？ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:4:"FF14";s:4:"date";s:25:"2013-09-21T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2196:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/14(土) 22:54:57.78 ID:HXeCvn+5<br>
+<b><font size="4"><font color="#0066cc">女キャラは全員あれ着て歩け <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/14(土) 22:56:32.03 ID:YYsbm2DF<br>
+<b><font size="4">画像も無しにスレ立てとな？ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/14(土) 22:58:53.23 ID:Ay5pjjIp<br>
+<b><font size="4">シコッテモンクがそれ着て上段蹴りとかで大股開いてた <br> 
+何してんの？誘ってんの？ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+ 
+";}i:7;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2559.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2559.html";s:5:"title";s:56:"30歳過ぎてもMMOをやれる条件ｗｗｗｗｗｗ";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2911:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/18(水) 01:00:41.21 ID:P0Rpf/9K<br>
+<b><font size="4"><font color="#0066cc">・童貞でない事 <br> 
+・既婚で子持ちである事 <br> 
+・定期的にSEXしてる事 <br> 
+・一定の人数の女性経験を持ってる事 <br> 
+・正社員である事 <br> 
+・社会的に認知されてる職に就いてる事 <br> 
+・一定の年収を取ってる事 <br> 
+・自動車免許を持ってる事 <br> 
+・車を持ってる事 <br> 
+・MMO以外に社会的に認知されてる趣味がある事 <br> 
+・趣味の中でMMOの比重が高くない事 <br> 
+・MMOやるのはたまに嗜む程度である事 <br> 
+・服装がお洒落である事 <br> 
+・イケメンである事 <br> 
+・メタボでない事 <br> 
+ <br> 
+某所でみたけど無理 <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/18(水) 01:01:32.44 ID:deKdSS85<br>
+<b><font size="4">ネトゲの中で条件を満たせばいいんじゃないかな・・・！ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/18(水) 01:01:45.36 ID:h11A9NCa<br>
+<b><font size="4">・自動車免許を持ってる事  <br> 
+ <br> 
+これしか当てはまらない奴ｗｗｗｗｗｗｗｗｗｗｗｗｗ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:15:"ネトゲ実況";s:4:"date";s:25:"2013-09-20T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2911:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/18(水) 01:00:41.21 ID:P0Rpf/9K<br>
+<b><font size="4"><font color="#0066cc">・童貞でない事 <br> 
+・既婚で子持ちである事 <br> 
+・定期的にSEXしてる事 <br> 
+・一定の人数の女性経験を持ってる事 <br> 
+・正社員である事 <br> 
+・社会的に認知されてる職に就いてる事 <br> 
+・一定の年収を取ってる事 <br> 
+・自動車免許を持ってる事 <br> 
+・車を持ってる事 <br> 
+・MMO以外に社会的に認知されてる趣味がある事 <br> 
+・趣味の中でMMOの比重が高くない事 <br> 
+・MMOやるのはたまに嗜む程度である事 <br> 
+・服装がお洒落である事 <br> 
+・イケメンである事 <br> 
+・メタボでない事 <br> 
+ <br> 
+某所でみたけど無理 <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/18(水) 01:01:32.44 ID:deKdSS85<br>
+<b><font size="4">ネトゲの中で条件を満たせばいいんじゃないかな・・・！ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/18(水) 01:01:45.36 ID:h11A9NCa<br>
+<b><font size="4">・自動車免許を持ってる事  <br> 
+ <br> 
+これしか当てはまらない奴ｗｗｗｗｗｗｗｗｗｗｗｗｗ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:8;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2558.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2558.html";s:5:"title";s:48:"【FF14】 即抜けのほぼ100%が白様な件";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2420:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+6：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 10:07:09.64 ID:bVGdIQiV<br>
+<b><font size="4"><font color="#0066cc">11で言えば全盛期の詩人ポジだからなｗ <br> 
+ <br> 
+白＜7人揃ってから声掛けてください＾＾ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+8：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 10:10:41.17 ID:hq4rsfVy<br>
+<b><font size="4">ハゲそう率  <br> 
+ヒーラー〉タンク〉DPS <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+<br><span style="color:#0099FF">※DPS=アタッカー()</span>
+<br>
+<br>
+
+11：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 10:13:34.68 ID:UlBpmxHU<br>
+<b><font size="4">白だけど一度も抜けたことないよ。阿鼻叫喚もまた楽しからずや。 <br> 
+厨ヲチしながら回復なんて堪らなく楽しいじゃん。 <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:4:"FF14";s:4:"date";s:25:"2013-09-19T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2420:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+6：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 10:07:09.64 ID:bVGdIQiV<br>
+<b><font size="4"><font color="#0066cc">11で言えば全盛期の詩人ポジだからなｗ <br> 
+ <br> 
+白＜7人揃ってから声掛けてください＾＾ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+8：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 10:10:41.17 ID:hq4rsfVy<br>
+<b><font size="4">ハゲそう率  <br> 
+ヒーラー〉タンク〉DPS <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+<br><span style="color:#0099FF">※DPS=アタッカー()</span>
+<br>
+<br>
+
+11：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 10:13:34.68 ID:UlBpmxHU<br>
+<b><font size="4">白だけど一度も抜けたことないよ。阿鼻叫喚もまた楽しからずや。 <br> 
+厨ヲチしながら回復なんて堪らなく楽しいじゃん。 <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:9;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2557.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2557.html";s:5:"title";s:45:"新作ポケモンがブヒれると話題に";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2127:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/17(火) 21:05:09.17 ID:D19r9RAd0<br>
+<b><font size="5"><font color="#0066cc"><a href="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_1.jpg" target="_blank"><img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_1.jpg"width=520 height=716></a> <br> <br> 
+<img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_2.jpg"> <br> <br> 
+<img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_3.jpg"> <br> <br> 
+<img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_4.jpg"> <br> 
+ <br> 
+これはきた <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:12:"ポケモン";s:4:"date";s:25:"2013-09-18T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2127:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/17(火) 21:05:09.17 ID:D19r9RAd0<br>
+<b><font size="5"><font color="#0066cc"><a href="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_1.jpg" target="_blank"><img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_1.jpg"width=520 height=716></a> <br> <br> 
+<img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_2.jpg"> <br> <br> 
+<img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_3.jpg"> <br> <br> 
+<img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130918140707_1_4.jpg"> <br> 
+ <br> 
+これはきた <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+ 
+";}i:10;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2556.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2556.html";s:5:"title";s:40:"旧FF14ってなんで失敗したの？";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2316:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/09(月) 07:49:36.52 ID:mYtYiG+b<br>
+<b><font size="5"><font color="#8C6239">いまこんな人がいるのに <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/09(月) 07:51:08.67 ID:gddh0VjS<br>
+<b><font size="4">アンチの工作のせい <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+13：<font color="#008000">既にその名前は使われています</font>：2013/09/09(月) 08:48:11.00 ID:MhqFn80p<br>
+<b><font size="4">発売直前は悪かったがバージョンアップでよくなっていった <br> 
+しかし10年もつ鯖ではなく、何もかもが重かった <br> 
+戦闘、アクションスキル、ギャザクラのミニゲーム、旧14の方が俺は好き <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br> 
+";}s:2:"dc";a:4:{s:7:"subject";s:4:"FF14";s:4:"date";s:25:"2013-09-17T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2316:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/09(月) 07:49:36.52 ID:mYtYiG+b<br>
+<b><font size="5"><font color="#8C6239">いまこんな人がいるのに <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/09(月) 07:51:08.67 ID:gddh0VjS<br>
+<b><font size="4">アンチの工作のせい <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+13：<font color="#008000">既にその名前は使われています</font>：2013/09/09(月) 08:48:11.00 ID:MhqFn80p<br>
+<b><font size="4">発売直前は悪かったがバージョンアップでよくなっていった <br> 
+しかし10年もつ鯖ではなく、何もかもが重かった <br> 
+戦闘、アクションスキル、ギャザクラのミニゲーム、旧14の方が俺は好き <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br> 
+";}i:11;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2555.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2555.html";s:5:"title";s:53:"SIRENみたいなゲームってもう出ないの？";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2292:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/15(日) 10:44:16.72 ID:ReZsRuct0<br>
+<b><font size="5"><font color="#8C6239">和風ホラーください！ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/15(日) 10:45:18.08 ID:XkUeeq6y0<br>
+<b><font size="4">SIREN3の制作スタッフ募集とはなんだったのか <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+5：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/15(日) 10:45:43.97 ID:icGVAM+k0<br>
+<b><font size="4"><font color="#000000">
+和風ホラーってゲームも映画も終わった感があるよね <br> 
+2005年くらいまでだわ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:18:"VIP【ゲーム】";s:4:"date";s:25:"2013-09-16T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2292:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/15(日) 10:44:16.72 ID:ReZsRuct0<br>
+<b><font size="5"><font color="#8C6239">和風ホラーください！ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/15(日) 10:45:18.08 ID:XkUeeq6y0<br>
+<b><font size="4">SIREN3の制作スタッフ募集とはなんだったのか <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+5：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/15(日) 10:45:43.97 ID:icGVAM+k0<br>
+<b><font size="4"><font color="#000000">
+和風ホラーってゲームも映画も終わった感があるよね <br> 
+2005年くらいまでだわ <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:12;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2554.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2554.html";s:5:"title";s:78:"モンハン買ってないやつちょっと来いｗｗｗｗｗｗｗｗｗ";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2213:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/14(土) 22:56:34.84 ID:rU7jeVNc0<br>
+<b><font size="5"><font color="#8C6239">何で <br> 
+買ってないのか <br> 
+産業で <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+4：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/14(土) 22:57:10.69 ID:X+HBeTbk0<br>
+<b><font size="4">全く <br> 
+興味が <br> 
+無い <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+5：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/14(土) 22:57:16.69 ID:OkaMCu1U0<br>
+<b><font size="4">売ってない <br> 
+欲しいな <br> 
+DL？要らねえよ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br> 
+";}s:2:"dc";a:4:{s:7:"subject";s:12:"モンハン";s:4:"date";s:25:"2013-09-15T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2213:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/14(土) 22:56:34.84 ID:rU7jeVNc0<br>
+<b><font size="5"><font color="#8C6239">何で <br> 
+買ってないのか <br> 
+産業で <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+4：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/14(土) 22:57:10.69 ID:X+HBeTbk0<br>
+<b><font size="4">全く <br> 
+興味が <br> 
+無い <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+5：<font color="#008000">以下、名無しにかわりましてVIPがお送りします</font>：2013/09/14(土) 22:57:16.69 ID:OkaMCu1U0<br>
+<b><font size="4">売ってない <br> 
+欲しいな <br> 
+DL？要らねえよ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br> 
+";}i:13;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2553.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2553.html";s:5:"title";s:51:"理想のテンポだ！シェイシェイハ！！";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:2086:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/12(木) 01:59:23.93 ID:Uk9jS+T7<br>
+<b><font size="4"><img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130914142347_1_1.jpg"> <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/12(木) 02:01:15.30 ID:Wx31RrRS<br>
+<b><font size="4">これマジ？ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/12(木) 02:01:44.03 ID:5L5TRgur<br>
+<b><font size="4">俺もこれSSとったわｗ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:4:"FF14";s:4:"date";s:25:"2013-09-14T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:2086:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/12(木) 01:59:23.93 ID:Uk9jS+T7<br>
+<b><font size="4"><img src ="http://blog-imgs-57.fc2.com/w/a/t/watagee3/20130914142347_1_1.jpg"> <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/12(木) 02:01:15.30 ID:Wx31RrRS<br>
+<b><font size="4">これマジ？ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+
+3：<font color="#008000">既にその名前は使われています</font>：2013/09/12(木) 02:01:44.03 ID:5L5TRgur<br>
+<b><font size="4">俺もこれSSとったわｗ <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}i:14;a:8:{s:5:"about";s:49:"http://watagee3.blog.fc2.com/blog-entry-2552.html";s:4:"link";s:49:"http://watagee3.blog.fc2.com/blog-entry-2552.html";s:5:"title";s:51:"夫のネトゲキャラクターを消しました";s:11:"description";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:7:"content";a:1:{s:7:"encoded";s:5324:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 18:37:01.76 ID:9A46n+VG<br>
+<b><font size="3"><font color="#0066cc">夫のドラクエセーブデータ消しました  <br> 
+<a href="http://komachi.yomiuri.co.jp/t/2011/0401/398631.htm?o=0&amp;amp;p=1" target="_blank">http://komachi.yomiuri.co.jp/t/2011/0401/398631.htm?o=0&amp;amp;p=1</a> <br> 
+ <br> 
+<font color="#0000AA">&gt; 出産前までは喧嘩もしたこともなく仲が良かったのですが、出産を機に夫が変わってしまいました。 <br> </font>
+<font color="#0000AA">&gt; 正確には私が切迫早産で４か月の長期入院中に夫がオンラインゲームをはじめてからです。 <br> </font>
+<font color="#0000AA">&gt; 夫がオンラインゲームをはじめたときはもともとゲーム好きだったこともあって深く考えはしなかったのですが <br> </font>
+<font color="#0000AA">&gt; 出産して自宅に帰るとびっくり・・・PCが３台に増えていて夫は３台のPCを使ってゲームをしていたのです。 <br> </font>
+<font color="#0000AA">&gt; 出産後は子供を一緒に大切に育てていこうね、と約束したのに毎日３時間のゲーム。 <br> </font>
+<font color="#0000AA">&gt; 土日はずっとPCの前に座っています。 <br> </font>
+ <br> 
+<font color="#0000AA">&gt; 昨日も子供が泣いているので授乳をお願いしたら「待ってほしい」と言われ、頭にきて夫に何か言おうとしたのです。 <br> </font>
+<font color="#0000AA">&gt; そのときにふと夫のゲーム画面をみたら「鬼嫁」とか「双子のモンスターが暴れてる」とかチャットしていたのです。 <br> </font>
+<font color="#0000AA">&gt; もう今まで我慢していた糸が切れたような感じで涙が止まらず「しばらく実家に帰らせてほしい」と言いました。 <br> </font>
+<font color="#0000AA">&gt; 夫は反省しているから許してほしいと謝ってきました。 <br> </font>
+<font color="#0000AA">&gt; それなら今週末はゲームをやらないでほしい、と伝えたら「週末は戦争があるから・・・（ゲーム内の）」と。</font> <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 18:37:40.67 ID:z8SKd9//<br>
+<font face="ＭＳ Ｐゴシック">
+<font size="4">　　 / :/　 ...:/:′::/ :.:.:.....:./.:/:!:.:.:.i:..!:.:.....:{:.:.:.:.:.:ハ　　　　／ <br> 
+.　 /.〃/:...../:′'.::|:: i .::.:.:.:| :i:_{＿_|:.|:.:.:.i :|:.:...／　￣｀ヽ/　　　　　　ふ <br> 
+　 '://:′::/斗:十 |::.::.::.:.:.:.: :}}ハ ::ﾊ:{:≧ト|:::/　　な 　 　 　 な　な　 ぅ <br> 
+　{//::{: ／|i:八::{=从:{ i::::: :N孑弐{ミﾄ∨:::|::′　 る.　　　　 る　.る　( <br> 
+.　 i :从 ::::{ｲｧ:う{ミﾄ爪ﾄ::::. !　ん):::::ﾊヽﾄ､:{:| 　 　ほ　 　 　 ほ　ほ　 ) <br> 
+.　 |.::| : ＼《 { ::::::: }　 ヽ＼{　{ ::::::::: ﾘ | :::ヽ!　　　ど　　　　 ど　ど　む <br> 
+.　 | ::!::|ハト.乂__ノ　　　　　　　ー '　 | :::＜　　　 | <br> 
+　八::| :|::::i　/i, , 　 　 ,　　　　　/i/ ,　}:::}i::人　　　＿_ ノ＼ <br> 
+　 (__):::l:::::.　　　　　　　　　　 　 　 　 i.:/::::::::厂｢{:::::::{　　　 ` ー―　´ <br> 
+　/ :{ | :V:入　　　　　{￣｀ｿ　　　　　 }/}::::}/::::::l.|:::::::| <br> 
+　{ ::|人::∨::::＞...　　 `　　　　　　. ィ升|:::/::::::::八::::::{ <br> 
+</font>
+</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 18:40:33.41 ID:z8SKd9//<br>
+<b><font size="4">2011年4月1日 13:44 <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}s:2:"dc";a:4:{s:7:"subject";s:15:"ネトゲの話";s:4:"date";s:25:"2013-09-13T20:10:45+09:00";s:7:"creator";s:6:"綿毛";s:9:"publisher";s:8:"FC2-BLOG";}s:7:"summary";s:388:" bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx =
+ ";s:12:"atom_content";s:5324:"
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<script type="text/javascript">
+bordercol="#0000FF";
+backcol="#FFCCFF";
+fontsize="10";
+fontcol="#000000";
+set_x=20;
+set_y=-50;
+document.write("<div ID='tiptext'STYLE='position:absolute;z-index:20;border:3px solid;padding:1px;margin:0;border-color:"+bordercol+";font-size:"+fontsize+"pt;background-color:"+backcol+";color:"+fontcol+";display:none'></div>");
+function opentext(settxt){
+divid="tiptext";
+if(document.all){
+     d_div=document.all(divid);
+     rx = event.clientX + document.body.scrollLeft +set_x;
+     ry = event.clientY + document.body.scrollTop +set_y;
+}else{
+     d_div=document.getElementById(divid);
+     rx = NNX  + set_x;
+     ry = NNY + set_y;
+}
+if(settxt){
+     d_div.style.display="block";
+     d_div.style.left = rx +"px";
+     d_div.style.top = ry +"px";
+     d_div.innerHTML = settxt;
+}else{
+     d_div.style.display="none";
+     d_div.innerHTML = ""; }
+}
+function getMousePos(e){
+	  var obj = new Object();
+	  if(e){
+        obj.x = e.pageX;
+        obj.y = e.pageY;
+    }else{
+        obj.x = event.x;
+        obj.y = event.y;
+    }
+    return obj;
+}
+function setPos(){
+    window.document.onmousemove = function(e){
+        NNX = getMousePos(e).x;
+        NNY = getMousePos(e).y;
+    }
+}
+setPos();
+</script>
+</head>
+
+1：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 18:37:01.76 ID:9A46n+VG<br>
+<b><font size="3"><font color="#0066cc">夫のドラクエセーブデータ消しました  <br> 
+<a href="http://komachi.yomiuri.co.jp/t/2011/0401/398631.htm?o=0&amp;amp;p=1" target="_blank">http://komachi.yomiuri.co.jp/t/2011/0401/398631.htm?o=0&amp;amp;p=1</a> <br> 
+ <br> 
+<font color="#0000AA">&gt; 出産前までは喧嘩もしたこともなく仲が良かったのですが、出産を機に夫が変わってしまいました。 <br> </font>
+<font color="#0000AA">&gt; 正確には私が切迫早産で４か月の長期入院中に夫がオンラインゲームをはじめてからです。 <br> </font>
+<font color="#0000AA">&gt; 夫がオンラインゲームをはじめたときはもともとゲーム好きだったこともあって深く考えはしなかったのですが <br> </font>
+<font color="#0000AA">&gt; 出産して自宅に帰るとびっくり・・・PCが３台に増えていて夫は３台のPCを使ってゲームをしていたのです。 <br> </font>
+<font color="#0000AA">&gt; 出産後は子供を一緒に大切に育てていこうね、と約束したのに毎日３時間のゲーム。 <br> </font>
+<font color="#0000AA">&gt; 土日はずっとPCの前に座っています。 <br> </font>
+ <br> 
+<font color="#0000AA">&gt; 昨日も子供が泣いているので授乳をお願いしたら「待ってほしい」と言われ、頭にきて夫に何か言おうとしたのです。 <br> </font>
+<font color="#0000AA">&gt; そのときにふと夫のゲーム画面をみたら「鬼嫁」とか「双子のモンスターが暴れてる」とかチャットしていたのです。 <br> </font>
+<font color="#0000AA">&gt; もう今まで我慢していた糸が切れたような感じで涙が止まらず「しばらく実家に帰らせてほしい」と言いました。 <br> </font>
+<font color="#0000AA">&gt; 夫は反省しているから許してほしいと謝ってきました。 <br> </font>
+<font color="#0000AA">&gt; それなら今週末はゲームをやらないでほしい、と伝えたら「週末は戦争があるから・・・（ゲーム内の）」と。</font> <br> 
+</font>
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+
+2：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 18:37:40.67 ID:z8SKd9//<br>
+<font face="ＭＳ Ｐゴシック">
+<font size="4">　　 / :/　 ...:/:′::/ :.:.:.....:./.:/:!:.:.:.i:..!:.:.....:{:.:.:.:.:.:ハ　　　　／ <br> 
+.　 /.〃/:...../:′'.::|:: i .::.:.:.:| :i:_{＿_|:.|:.:.:.i :|:.:...／　￣｀ヽ/　　　　　　ふ <br> 
+　 '://:′::/斗:十 |::.::.::.:.:.:.: :}}ハ ::ﾊ:{:≧ト|:::/　　な 　 　 　 な　な　 ぅ <br> 
+　{//::{: ／|i:八::{=从:{ i::::: :N孑弐{ミﾄ∨:::|::′　 る.　　　　 る　.る　( <br> 
+.　 i :从 ::::{ｲｧ:う{ミﾄ爪ﾄ::::. !　ん):::::ﾊヽﾄ､:{:| 　 　ほ　 　 　 ほ　ほ　 ) <br> 
+.　 |.::| : ＼《 { ::::::: }　 ヽ＼{　{ ::::::::: ﾘ | :::ヽ!　　　ど　　　　 ど　ど　む <br> 
+.　 | ::!::|ハト.乂__ノ　　　　　　　ー '　 | :::＜　　　 | <br> 
+　八::| :|::::i　/i, , 　 　 ,　　　　　/i/ ,　}:::}i::人　　　＿_ ノ＼ <br> 
+　 (__):::l:::::.　　　　　　　　　　 　 　 　 i.:/::::::::厂｢{:::::::{　　　 ` ー―　´ <br> 
+　/ :{ | :V:入　　　　　{￣｀ｿ　　　　　 }/}::::}/::::::l.|:::::::| <br> 
+　{ ::|人::∨::::＞...　　 `　　　　　　. ィ升|:::/::::::::八::::::{ <br> 
+</font>
+</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+4：<font color="#008000">既にその名前は使われています</font>：2013/09/10(火) 18:40:33.41 ID:z8SKd9//<br>
+<b><font size="4">2011年4月1日 13:44 <br> 
+</font>
+</b><br>
+<br>
+<br>
+<br>
+<br>
+ 
+";}}s:7:"channel";a:6:{s:5:"title";s:33:"私はゲームを続けるよ！";s:4:"link";s:29:"http://watagee3.blog.fc2.com/";s:2:"dc";a:1:{s:8:"language";s:2:"ja";}s:5:"items";s:2:"
+
+";s:9:"items_seq";s:16:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:5:"UTF-8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:13:"last_modified";s:31:"Sat, 28 Sep 2013 07:51:26 GMT
+";}

@@ -1,0 +1,3 @@
+http://blog.livedoor.jp/goldennews/index.rdf
+http://vipsister23.com/index.rdf
+http://hamusoku.com/index.rdf
