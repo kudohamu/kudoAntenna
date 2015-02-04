@@ -1,7 +1,7 @@
 <?php
 $returnStr = "";
 
-//include('./readRSS.php');
+include('./readRSS.php');
 include('./readCookie.php');
 
 global $otherBoxValArray, $cookieArray;
